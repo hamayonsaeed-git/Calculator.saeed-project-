@@ -2,7 +2,7 @@ let string = "";
 let input = document.querySelector(".calculator-screen");
 let buttons = document.querySelectorAll(".calculator-keys button");
 
-jbjwfwhf jcjb
+
 
 buttons.forEach((button) => {
   button.addEventListener("click", () => {
